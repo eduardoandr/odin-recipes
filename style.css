@@ -1,0 +1,16 @@
+body{
+ text-align: center;
+ background-color: beige;
+}
+ul{
+  display: inline-block;
+  margin: 0 auto;
+}
+a:hover{
+  color: red;
+}
+#title{
+  background-color: bisque;
+  margin: 60px;
+  border-radius: 20px;
+}
